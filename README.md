@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/priyanshi-rai-a32035230">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@Pri25">
+  <a href="medium link here">
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/rai_sahab07">
+  <a href="twitter link here">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -22,10 +22,10 @@
 </h1>
 <hr>
 ### :woman_technologist: About Me :
-👋 Hi, I’m Priyanshi Rai, a frontend developer and a UI/UX designer. I'm interested in Web3 and love to explore different stuff.
+👋 Hi there!, I’m Priyanshi Rai, passionate about uncovering insights through data and analytics .  I love to explore different stuff.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- :telescope: I’m a student and a I love exploring new fields. Currently I'm a degen with [social3](https://app.social3.club/) and creating a first ever web3 based hiring plattform..
+- :telescope: I’m a Btech student and a I love exploring new fields.
 
 - :seedling: Exploring Technical Content Writing and graphic designing.
 
@@ -33,7 +33,7 @@
 
 - 💞️ I love community meetups and connecting with different people.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prai/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-rai-a32035230)
 
 
 ---
