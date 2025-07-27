@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/priyanshi-rai-a32035230)">
+  <a href="https://www.linkedin.com/in/priyanshi-rai-a32035230">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@Pri25">
