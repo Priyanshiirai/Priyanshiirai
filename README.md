@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Priyanshi Rai</h1>
 <h3 align="center">A passionate learner trying to explore new stuff.</br>I am a BTECH(CS) student graduating in 2025 from CCS University, Meerut.</h3>
-<img align =“center”  src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshiirai&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshiirai" /> </p>
 <h1 align="center">
 Welcome to my space
