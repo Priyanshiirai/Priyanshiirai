@@ -1,24 +1,14 @@
-### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
+ <div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/priyanshi-rai-a32035230">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="medium link here">
-    <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="twitter link here">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-
+<h1 align="center">Hi 👋, I'm Priyanshi Rai</h1>
+<h3 align="center">A passionate learner trying to explore new stuff.</br>I am a BTECH(CS) student graduating in 2025 from CCS University, Meerut.</h3>
+<img align =“center”  src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshiirai&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshiirai" /> </p>
 <h1 align="center">
-  Welcome to my space
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Welcome to my space
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <hr>
 ### :woman_technologist: About Me :
